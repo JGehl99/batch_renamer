@@ -73,7 +73,7 @@ layout = [
 ]
 
 # Creating window
-window = Window('File Renamer v0.1', layout, finalize=True)
+window = Window('File Renamer v1.0', layout, finalize=True)
 
 while True:
     event, values = window.read()
